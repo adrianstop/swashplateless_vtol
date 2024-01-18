@@ -1,0 +1,1 @@
+Found it to be a big difference between running the actuator with the propeller pushing air upward vs. pushing downward. All tests done 30NOV23 was repeated here.
